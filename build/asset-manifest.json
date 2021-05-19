@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be7cca02.chunk.css",
+    "main.js": "/static/js/main.0c828582.chunk.js",
+    "main.js.map": "/static/js/main.0c828582.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b0401b2e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b0401b2e.js.map",
+    "static/js/2.8c30a0dd.chunk.js": "/static/js/2.8c30a0dd.chunk.js",
+    "static/js/2.8c30a0dd.chunk.js.map": "/static/js/2.8c30a0dd.chunk.js.map",
+    "static/js/3.68a35b65.chunk.js": "/static/js/3.68a35b65.chunk.js",
+    "static/js/3.68a35b65.chunk.js.map": "/static/js/3.68a35b65.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.be7cca02.chunk.css.map": "/static/css/main.be7cca02.chunk.css.map",
+    "static/js/2.8c30a0dd.chunk.js.LICENSE.txt": "/static/js/2.8c30a0dd.chunk.js.LICENSE.txt",
+    "static/media/Group 440.5eabf83c.svg": "/static/media/Group 440.5eabf83c.svg",
+    "static/media/Group 441.ec3efb61.svg": "/static/media/Group 441.ec3efb61.svg",
+    "static/media/Group 442.e31a9bb6.svg": "/static/media/Group 442.e31a9bb6.svg",
+    "static/media/Path 5616.7a5db169.svg": "/static/media/Path 5616.7a5db169.svg",
+    "static/media/Rectangle 1.994c212c.svg": "/static/media/Rectangle 1.994c212c.svg",
+    "static/media/bg.9788dec9.jpg": "/static/media/bg.9788dec9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0401b2e.js",
+    "static/js/2.8c30a0dd.chunk.js",
+    "static/css/main.be7cca02.chunk.css",
+    "static/js/main.0c828582.chunk.js"
+  ]
+}
